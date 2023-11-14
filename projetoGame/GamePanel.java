@@ -104,11 +104,11 @@ public class GamePanel extends JPanel {
     }
 
     private void playErroSound() {
-        playSound("D:/Java/PROJETOS/JavaEssencial/src/projetoGame/error.wav");
+        playSound("projetoGame/error.wav");
     }
 
     private void playAcertoSound() {
-        playSound("D:/Java/PROJETOS/JavaEssencial/src/projetoGame/success.wav");
+        playSound("projetoGame/success.wav");
     }
 
     private void playSound(String filePath) {
