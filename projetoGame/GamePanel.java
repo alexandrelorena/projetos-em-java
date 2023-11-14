@@ -95,7 +95,7 @@ public class GamePanel extends JPanel {
 
         private void abrirGitHubNoNavegador() {
             try {
-                URI githubURI = new URI("https://github.com/seu-usuario/seu-projeto");
+                URI githubURI = new URI("https://github.com/alexandrelorena/projetos-em-java.git");
                 java.awt.Desktop.getDesktop().browse(githubURI);
             } catch (IOException | URISyntaxException ex) {
                 ex.printStackTrace();
