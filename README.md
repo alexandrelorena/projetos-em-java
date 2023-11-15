@@ -1,7 +1,4 @@
-# Java Projects
-
-
-><span style="color:gray;"> Some projects in Java language</span>
+# Some projects in Java language
 
 >#### Course Projects "Java from Basic to Advanced" - Geek University | Udemy
 >
