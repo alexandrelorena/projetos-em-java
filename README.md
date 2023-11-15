@@ -8,7 +8,7 @@
 > - Game Project (with Java Swing)
 >
 > #### Other projects (coming soon...)
-> &nbsp;
+
 
    <a href="mailto:alexandre.lorena@gmail.com"
     onmouseover="this.getElementsByTagName('img')[0].src='//cdn.simpleicons.org/gmail'"
