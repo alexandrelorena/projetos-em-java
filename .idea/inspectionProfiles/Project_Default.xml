@@ -1,0 +1,41 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPep8Inspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="E731" />
+          <option value="E231" />
+          <option value="E722" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyShadowingBuiltinsInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredNames">
+        <list>
+          <option value="max" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyShadowingNamesInspection" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+    <inspection_tool class="PySingleQuotedDocstringInspection" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="secao12_modulos_e_pacotes.modulos_customizados.funcao_com_parametros" />
+          <option value="secao12_modulos_e_pacotes.modulos_customizados.importando_modulo" />
+          <option value="str.*" />
+          <option value="secao16_orientacao_a_objetos.abstracao_encapsulamento.Conta._Conta__titular" />
+          <option value="secao16_orientacao_a_objetos.abstracao_encapsulamento.Conta._Conta__numero_formatado" />
+          <option value="secao17_heranca_e_polimorfismo.heranca_multipla.Aquatico._Animal__nome" />
+          <option value="secao17_heranca_e_polimorfismo.heranca_multipla.Terrestre._Animal__nome" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="SpellCheckingInspection" enabled="false" level="TYPO" enabled_by_default="false">
+      <option name="processCode" value="true" />
+      <option name="processLiterals" value="true" />
+      <option name="processComments" value="true" />
+    </inspection_tool>
+  </profile>
+</component>
