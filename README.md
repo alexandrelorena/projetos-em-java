@@ -1,11 +1,11 @@
 # Some projects in Java language
 
->#### Course Projects "Java from Basic to Advanced" - Geek University | Udemy
+>### Course Projects "Java from Basic to Advanced" - Geek University | Udemy
 >
-> - Bank Project
-> - Game Project
-> - Market Project
-> - Game Project (with Java Swing)
+> - Banco
+> - Game
+> - Mercado
+> - projetoGame (with Java Swing)
 >
 > #### Other projects (coming soon...)
 
