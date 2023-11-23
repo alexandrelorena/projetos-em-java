@@ -1,6 +1,6 @@
 # Some projects in Java language
 
->### Course Projects "Java from Basic to Advanced" - Geek University | Udemy
+>### Course Projects "Programação em Java do básico ao avançado" - Geek University | Udemy
 >
 > - Banco
 > - Game
