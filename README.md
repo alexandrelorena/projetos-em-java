@@ -30,6 +30,7 @@
 <img src="https://i.imgur.com/h1q7oo1.jpg" width="785" height="5">
 
 <div>
+
   <a href="mailto:alexandre.lorena@gmail.com" style="text-decoration: none;">
     <img src="https://cdn.simpleicons.org/gmail" alt="Gmail" width="32" height="32"></a>&nbsp;&nbsp;
   <a href="https://www.instagram.com/alexandre_lorena/" style="text-decoration: none;">
